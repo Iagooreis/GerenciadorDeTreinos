@@ -66,4 +66,4 @@ java gerenciadordetreinos.view.swing.MainSwing
 
 ## 🧾 Licença
 
-Este projeto é de uso educacional/pessoal. Sinta-se livre para usar e modificar.
+Este projeto é de uso educacional/pessoal. Sinta-se livre para usar e modificar. Projeto feito como trabalho da matéria POO
